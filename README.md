@@ -1,10 +1,18 @@
 # Flipkart-GRID
 Object Localization Problem
 
-The participants were supposed to train models which would draw bounding boxes around objects in the images.
+### Problem Statement -
+
+Participants were supposed to draw a box around objects in images, separating them from the background of the image. In technical terms, we were supposed to train models which would draw bounding boxes around objects in the images.
+
+Here is an example of the bounding boxes we were expected to draw using the ML models - 
+
+![Image](https://i.ibb.co/dP6JvtZ/1-FAk-Tit-ZCvm-Z2xd-M8o-FF2ng.png)  ![Image](https://i.ibb.co/XXWryJg/bounded.png)
 
 ### Metric -
 -> IoU Metric
+
+![Image](https://i.ibb.co/XXSNKdb/IOU.png)
 
 # PS: Pre-Trained Models were not allowed.
 
