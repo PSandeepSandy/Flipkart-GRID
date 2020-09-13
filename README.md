@@ -7,12 +7,16 @@ Participants were supposed to draw a box around objects in images, separating th
 
 Here is an example of the bounding boxes we were expected to draw using the ML models - 
 
-![Image](https://i.ibb.co/dP6JvtZ/1-FAk-Tit-ZCvm-Z2xd-M8o-FF2ng.png)  ![Image](https://i.ibb.co/XXWryJg/bounded.png)
+![Image](https://i.ibb.co/dP6JvtZ/1-FAk-Tit-ZCvm-Z2xd-M8o-FF2ng.png)
 
 ### Metric -
 -> IoU Metric
 
 ![Image](https://i.ibb.co/XXSNKdb/IOU.png)
+
+### Sample Output -
+
+![Image](https://i.ibb.co/cTqnvs7/pred-det.png)
 
 # PS: Pre-Trained Models were not allowed.
 
